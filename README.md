@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/jstatlab/pacotegha/actions/workflows/check-release.yaml/badge.svg)](https://github.com/jstatlab/pacotegha/actions/workflows/check-release.yaml)
+[![render-rmarkdown](https://github.com/jstatlab/pacotegha/actions/workflows/render-rmarkdown.yaml/badge.svg)](https://github.com/jstatlab/pacotegha/actions/workflows/render-rmarkdown.yaml)
 <!-- badges: end -->
 
 ``` r
