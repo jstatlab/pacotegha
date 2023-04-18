@@ -14,4 +14,4 @@ library(pacotegha)
 gerar_grafico()
 ```
 
-<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
+<img src="man/figures/README-figura-1.png" width="100%" />

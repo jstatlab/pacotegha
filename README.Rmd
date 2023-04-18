@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 [![render-rmarkdown](https://github.com/jstatlab/pacotegha/actions/workflows/render-rmarkdown.yaml/badge.svg)](https://github.com/jstatlab/pacotegha/actions/workflows/render-rmarkdown.yaml)
 <!-- badges: end -->
 
-```{r}
+```{r figura}
 library(pacotegha)
 gerar_grafico()
 ```
