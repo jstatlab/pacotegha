@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-
   schedule:
     - cron: "*/4 * * * *"
 
@@ -30,7 +29,7 @@ jobs:
       - name: Restore packages
         shell: Rscript {0}
         run: |
-          install.packages(c("remotes", "rmarkdown, "knitr"))
+          install.packages(c("remotes", "rmarkdown", "knitr"))
           remotes::install_local(dependencies = TRUE)
 
       - name: Render Rmarkdown files and Commit Results
